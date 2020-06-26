@@ -6,7 +6,7 @@
 # Generic server information
 server:
   # You should change this to your server's name
-  name: TotalFreedom
+  name: TotalSimp
 
   # The address your server is located at. Please do not include the port.
   address: play.totalfreedom.me
@@ -97,10 +97,10 @@ shop:
   title: '&e&lTotalFreedom Shop'
   
   # Shop prefix
-  prefix: '&8[&eTF Shop&8]'
+  prefix: '&8[&eSimp Shop&8]'
 
   # How many coins to voters get per vote?
-  coins_per_vote: 20
+  coins_per_vote: 69
 
   # Chat reactions
   reactions:
@@ -119,10 +119,10 @@ shop:
 
   # Item prices
   prices:
-    grappling_hook: 100
-    lightning_rod: 1000
-    fire_ball: 500
-    rideable_pearl: 700
+    grappling_hook: 69
+    lightning_rod: 420
+    fire_ball: 69
+    rideable_pearl: 420
 
 # Admin list
 adminlist:
@@ -167,6 +167,7 @@ allow:
   lava_place: false
   lava_damage: false
   water_place: false
+  fuckyoufuckthiswearenotamemecorpwearenotamemecorpwearenotamemecorpwearenotamemecorp: true
   tnt_minecarts: false
   explosions: false
   redstone: true
@@ -185,6 +186,8 @@ allow:
   beehives: false
   auto_tp: false
   auto_clear: false
+  simping: false
+  
 
 # Blocked commands:
 #
@@ -286,7 +289,7 @@ blocked_commands:
   - 's:b:/loot:_'
   - 's:b:/schedule:_'
 
-# Automatically wipe dropped objects
+# Automatically wipe my ass
 auto_wipe: true
 
 # Nuking prevention
@@ -358,7 +361,7 @@ announcer:
   interval: 600
 
   # Prefix for all announcements
-  prefix: '&5[&eTotalFreedom&5] &b'
+  prefix: '&5[&eTotalSimp&5] &b'
 
   announcements:
   - 'Cock and balls Cock and balls'
@@ -373,8 +376,8 @@ announcer:
   - 'Famous players, such as Notch, are always fake! We are an offline/cracked server!'
   - 'Why the heck did you like his retarded post? Dislike his post now!'
   - 'You may download TotalFreedomMod here: https://tiny.re/tfm+'
-  - 'Catholic_Mario is the owner of TotalFreedom.'
-  - 'MarkByron is the founder of TotalFreedom.'
+  - 'Penis rock'
+  - 'Fuck ban'
   - 'Server lagging? Check the lag via "/tps"'
   - 'You are allowed to record and stream videos on TotalFreedom.'
   - 'Player vs player while in creative or god mode is forbidden!'
