@@ -33,9 +33,13 @@ server:
   # All players who show up as owner
   owners:
     - Demonic_Mario
+    - natenieel_fourtooate
 
   # All players who show up as executive
   executives: []
+  
+  # All players who show up as sex offenders
+  sex_offenders: [Lyicx]
 
   # All players who show up as assistant executive
   assistant_executives: []
@@ -309,6 +313,7 @@ landmines_enabled: false
 mp44_enabled: false
 tossmob_enabled: false
 4chan_enabled: false
+nathaniel_simp: true
 
 # Moblimiter
 moblimiter:
@@ -356,17 +361,17 @@ announcer:
   prefix: '&5[&eTotalFreedom&5] &b'
 
   announcements:
-  - 'Be sure to visit our forums at &6http://totalfreedom.boards.net/'
-  - 'You can always review the server rules here: &6http://totalfreedom.me/'
+  - 'Cock and balls Cock and balls'
+  - 'MAJOR OBJECT!!!! DONT YOU DARE PERMBAN BOWIE!!'
   - 'If you are not OP, be sure to ask!'
   - 'Somebody breaking the rules? Report it! /report <user> <reason>'
   - 'Griefing is not allowed!'
   - 'Hacked clients are allowed!'
   - 'Interested in becoming admin? Type "/ai" for more information!'
   - 'You may view all online administrators via "/list -a"'
-  - 'Save your buildings via WorldEdit! http://totalfreedom.me for more information!'
+  - 'let me tell you something. i have no idea wh- i have no idea why admins still choose to ban me... You know what, i can ban evade as much as i want and fuck ban. i dont know why you still chose to ban me, ill just bypass that ban, and then ill bypass that ban too, and ill bypass that ban forever, i can do this forever till the fucking server dies, i dont care at this rate.'
   - 'Famous players, such as Notch, are always fake! We are an offline/cracked server!'
-  - 'You may contact TotalFreedom support on Twitter! https://tiny.re/tfsupport'
+  - 'Why the heck did you like his retarded post? Dislike his post now!'
   - 'You may download TotalFreedomMod here: https://tiny.re/tfm+'
   - 'Catholic_Mario is the owner of TotalFreedom.'
   - 'MarkByron is the founder of TotalFreedom.'
